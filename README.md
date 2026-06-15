@@ -130,7 +130,7 @@ Master of Information Technology | Data Analyst
 
 - Email: adityasubhash35@gmail.com
 - LinkedIn: [linkedin.com/in/adityasubhash](https://linkedin.com/in/adityasubhash)
-- GitHub: [github.com/YOUR_USERNAME](https://github.com/adityasubhash35)
+- GitHub: [github.com/adityasubhash35](https://github.com/adityasubhash35)
 
 ---
 
